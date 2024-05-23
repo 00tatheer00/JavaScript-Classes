@@ -1,4 +1,3 @@
-# JavaScript-Classes
 
 # History of JavaScript:
 Brendan Eich first developed JavaScript, a computer language, in about ten days in May 1995. The language, formerly known as Mocha, later modified to LiveScript, and is now known simply as JavaScript, was created to be used on the client-side of websites, enabling the addition of dynamic and interactive components to static HTML texts.
